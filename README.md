@@ -203,3 +203,10 @@
 - `@Bean` : 스프링 컨테이너에 bean으로 등록
   - 기본적으로 메서드 명을 빈의 이름으로 사용함
 - `ApplicationContext` : 스프링 컨테이너
+
+---
+
+BeanDefinition 이라는 것으로 스프링 bean의 설정 메타 정보 추상화
+스프링 bean 만드는 방식
+  - 직업 등혹
+  - factory bean 사용해서 등록 (일반적인 java annotation config)
