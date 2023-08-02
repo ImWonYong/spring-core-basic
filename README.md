@@ -208,5 +208,5 @@
 
 BeanDefinition 이라는 것으로 스프링 bean의 설정 메타 정보 추상화
 스프링 bean 만드는 방식
-  - 직업 등혹
+  - 직접 등록
   - factory bean 사용해서 등록 (일반적인 java annotation config)
